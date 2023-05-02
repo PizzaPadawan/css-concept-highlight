@@ -1,0 +1,23 @@
+body {
+    background-color:turquoise;
+}
+
+h1, h2 {
+    color:indigo;
+}
+
+h2 {
+    text-shadow: -1px 1px 1px lavender;
+}
+
+p {
+    display: none;
+}
+
+.neat {
+    color: turquoise;
+}
+
+.rad {
+    color:white;
+}
